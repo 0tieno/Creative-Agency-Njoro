@@ -1,5 +1,5 @@
 # Creative Agency Website
 
-> Simple HTML/CSS website from the [YouTube tutorial project](https://www.youtube.com/watch?v=lvYnfMOUOJY&t=274s)
+> Simple HTML/CSS website done during attachment at Njoro
 ![Creative Agency](/images/screenshot.png 'Creative Agency')
-[LIVE PREVIEW](https://raw.githack.com/bradtraversy/creative-agency-website/master/index.html)
+[LIVE PREVIEW] (https://0tieno.github.io/Creative-Agency-Njoro/index.html)
